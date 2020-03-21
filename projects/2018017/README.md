@@ -13,3 +13,7 @@ Dropbox Headless works as a background [daemon](https://www.dropbox.com/install)
 [p18prov@P2018017 ~]$ ls /usr/local/bin/
 dropbox.py
 ```
+
+|         2nd        |                                       Deliverables                                      |                           Asciinema                          |  Deadline  |  Commit  |
+|:------------------:|:---------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:----------:|:--------:|
+| Check the weather. | Fetch weather forecast with enhanced search capabilities and export to desired formats. | [wttr.in](https://asciinema.org/a/NRX9Aaf2UVoC3ItM2W7QNBo0k) | 30/03/2020 | &#x2611; |
