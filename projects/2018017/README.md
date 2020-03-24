@@ -17,3 +17,11 @@ dropbox.py
 |         2nd        |                                       Deliverables                                      |                           Asciinema                          |  Deadline  |  Commit  |
 |:------------------:|:---------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:----------:|:--------:|
 | Check the weather. | Fetch weather forecast with enhanced search capabilities and export to desired formats. | [wttr.in](https://asciinema.org/a/NRX9Aaf2UVoC3ItM2W7QNBo0k) | 30/03/2020 | &#x2611; |
+
+|                  3rd                  |                                 Deliverables                                |                         Asciinema                        |  Deadline  |  Commit  |
+|:-------------------------------------:|:---------------------------------------------------------------------------:|:--------------------------------------------------------:|:----------:|:--------:|
+| Connect to a remote machine with SSH. | Connect to a remote machine from local computer and perform previous tasks. | [ssh](https://asciinema.org/a/aqMWtB1zOEuUIq0hg6wiGhyUg) | 30/03/2020 | &#x2611; |
+
+|                 4th                 |                                                    Deliverables                                                   |                          Asciinema                         |  Deadline  |  Commit  |
+|:-----------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:----------:|:--------:|
+| Back up your home directory online. | Keep directories synchronized across different locations, back up home directory and automate this whole process. | [rsync](https://asciinema.org/a/6pRQQn8T7j3XBtcvTdKT3M7dr) | 30/03/2020 | &#x2611; |
