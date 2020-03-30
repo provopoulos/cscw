@@ -25,3 +25,13 @@ dropbox.py
 |                 4th                 |                                                    Deliverables                                                   |                          Asciinema                         |  Deadline  |  Commit  |
 |:-----------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:----------:|:--------:|
 | Back up your home directory online. | Keep directories synchronized across different locations, back up home directory and automate this whole process. | [rsync](https://asciinema.org/a/6pRQQn8T7j3XBtcvTdKT3M7dr) | 30/03/2020 | &#x2611; |
+
+Tasks #3 and #4 can be used in tandem to keep our directories/files synchronized. Below is an overview of the most useful commands.
+```console
+$ rsync -avhP -e "ssh -p xxxx" FROM_LOCALorEXTERNAL_PATH username@host:TO_REMOTE_PATH
+$ rsync -avhP -e "ssh -p xxxx" username@host:FROM_REMOTE_PATH TO_LOCALorEXTERNAL_PATH
+$ rsync -avhP --exclude=".[!.]*" -e "ssh -p xxxx" username@host:FROM_REMOTE_PATH TO_LOCALorEXTERNAL_PATH
+$ rsync -avhP --exclude=".[!.]*" --exclude-from="exclude.txt" "$HOME"/ TO_EXTERNAL_PATH
+$ crontab -e
+30 10 * * * rsync -avhP --exclude=".[!.]*" --exclude-from="exclude.txt" --delete "$HOME" TO_EXTERNAL_PATH
+```
