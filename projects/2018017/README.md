@@ -35,3 +35,10 @@ $ rsync -avhP --exclude=".[!.]*" --exclude-from="exclude.txt" "$HOME"/ TO_EXTERN
 $ crontab -e
 30 10 * * * rsync -avhP --exclude=".[!.]*" --exclude-from="exclude.txt" --delete "$HOME" TO_EXTERNAL_PATH
 ```
+
+### Collaborative-DEV: [#MINIMAL-IONIO](https://github.com/ioniodi/minimal-ionio), [#SITE-GR](https://github.com/ioniodi/site-gr)
+**Checklist:**
+- [x] Update prospectus of department to reflect 2019-2020 changes. ([ISSUE](https://github.com/ioniodi/site-gr/issues/36) | [PR](https://github.com/ioniodi/site-gr/pull/37))
+- [x] Update postgraduate courses to reflect 2019-2020 program. ([ISSUE](https://github.com/ioniodi/site-gr/issues/81) | [PR](https://github.com/ioniodi/site-gr/pull/86))
+
+<h2 align="center">End of: Phase #1</h2>
