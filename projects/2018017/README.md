@@ -37,8 +37,12 @@ $ crontab -e
 ```
 
 ### Collaborative-DEV: [#MINIMAL-IONIO](https://github.com/ioniodi/minimal-ionio), [#SITE-GR](https://github.com/ioniodi/site-gr)
-**Checklist:**
-- [x] Update prospectus of department to reflect 2019-2020 changes. ([ISSUE](https://github.com/ioniodi/site-gr/issues/36) | [PR](https://github.com/ioniodi/site-gr/pull/37))
-- [x] Update postgraduate courses to reflect 2019-2020 program. ([ISSUE](https://github.com/ioniodi/site-gr/issues/81) | [PR](https://github.com/ioniodi/site-gr/pull/86))
+
+| Difficulty |                        Issue                        |                         PR                        |                            Demo                           |
+|:----------:|:---------------------------------------------------:|:-------------------------------------------------:|:---------------------------------------------------------:|
+|  Very Easy | [#36](https://github.com/ioniodi/site-gr/issues/36) | [#37](https://github.com/ioniodi/site-gr/pull/37) |                          &#9744;                          |
+|    Easy    | [#81](https://github.com/ioniodi/site-gr/issues/81) | [#86](https://github.com/ioniodi/site-gr/pull/86) | [7c8c65](https://cranky-kare-7c8c65.netlify.app/courses/) |
 
 <h2 align="center">End of: Phase #1</h2>
+
+<h2 align="center">Phase #2</h2>
