@@ -43,6 +43,15 @@ $ crontab -e
 |  Very Easy | [#36](https://github.com/ioniodi/site-gr/issues/36) | [#37](https://github.com/ioniodi/site-gr/pull/37) |                          &#9744;                          |
 |    Easy    | [#81](https://github.com/ioniodi/site-gr/issues/81) | [#86](https://github.com/ioniodi/site-gr/pull/86) | [7c8c65](https://cranky-kare-7c8c65.netlify.app/courses/) |
 
-<h2 align="center">End of: Phase #1</h2>
+<h3 align="center">End of: Phase #1</h3>
 
 <h2 align="center">Phase #2</h2>
+
+### Collaborative-DEV: [#MINIMAL-IONIO](https://github.com/ioniodi/minimal-ionio), [#SITEGR](https://github.com/ioniodi/sitegr), [#SITE-GR](https://github.com/ioniodi/site-gr) (Archived)
+
+|   Difficulty  |                                                   Issue                                                   |                                                           PR                                                           |                              Demo                              |                                      Wiki                                     |                                                                                                                          Branches                                                                                                                         |
+|:-------------:|:---------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Medium - Hard |                            [#83](https://github.com/ioniodi/site-gr/issues/83)                            | MI: [#23](https://github.com/ioniodi/minimal-ionio/pull/23)<br>SG: [#105](https://github.com/ioniodi/site-gr/pull/105) |     [753ac0](https://vibrant-albattani-753ac0.netlify.app/)    | [Embedded Timeline](https://github.com/ioniodi/sitegr/wiki/Embedded-Timeline) | [provopoulos/minimal-ionio@twitter_module](https://github.com/provopoulos/minimal-ionio/blob/twitter_module/_includes/twitter-module.html)<br>[provopoulos/site-gr@twitter_module](https://github.com/provopoulos/site-gr/blob/twitter_module/index.html) |
+|      Hard     | [#1](https://github.com/ioniodi/sitegr/issues/1)<br>[#124](https://github.com/ioniodi/site-gr/issues/124) |    MI: [#34](https://github.com/ioniodi/minimal-ionio/pull/34)<br>SG: [#3](https://github.com/ioniodi/sitegr/pull/3)   | [d9174b](https://practical-minsky-d9174b.netlify.app/contact/) |        [Maps](https://github.com/ioniodi/sitegr/wiki/Embedded-Timeline)       |           [provopoulos/minimal-ionio@ds_maps](https://github.com/provopoulos/minimal-ionio/blob/ds_maps/_includes/communication-info.html)<br>[provopoulos/sitegr@ds_maps](https://github.com/provopoulos/sitegr/blob/ds_maps/_data/contact.yml)          |
+
+<h3 align="center">End of: Phase #2</h3>
